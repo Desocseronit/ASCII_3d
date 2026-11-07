@@ -185,7 +185,7 @@ class Mesh {
 
 }
 
-// [Вся ваша база классов: Display, Point, Mesh остается без изменений]
+// im too lazy to draw) 
 
 const cx = Display.xBorder / 2, cy = Display.yBorder / 2, cz = Display.zBorder / 2;
 const sizeX = 8 * 2.2, sizeY = 5, sizeZ = 6;
